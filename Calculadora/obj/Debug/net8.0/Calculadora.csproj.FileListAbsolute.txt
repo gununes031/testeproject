@@ -1,0 +1,14 @@
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\bin\Debug\net8.0\Calculadora.exe
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\bin\Debug\net8.0\Calculadora.dll
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.dll
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+G:\Dio_BootCamp_dotNet\TesteUnitario\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
